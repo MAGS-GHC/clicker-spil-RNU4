@@ -1,0 +1,13 @@
+.cookie{
+    width: 25%;
+    margin-left: 25%;
+}
+
+
+#achievements{
+    height: 300px;
+    background-color: lightgray;
+    width: 350px;
+    scroll-behavior: auto;
+    overflow-y: scroll
+}
